@@ -1,0 +1,22 @@
+{
+  "name": "n00ga",
+  "version": "1.1.1",
+  "description": "Utility to write to N00GA/Y5207/AM03127 LED matrix signs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "N00GA",
+    "Y5207",
+    "AM03127",
+    "LED Display",
+    "Maplin",
+    "Scroll"
+  ],
+  "author": "samputer",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "serialport": "^9.2.8"
+  }
+}
